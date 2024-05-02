@@ -1,1 +1,1 @@
-# Practicing gtest
+# Practicing google test
