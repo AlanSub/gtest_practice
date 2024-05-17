@@ -7,7 +7,7 @@
 class queueFixtureTest: public ::testing::Test
 {
 protected:
-    virtual void override SetUp(){
+    void SetUp() override{
          queue_Init();   
     }
 };
